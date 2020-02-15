@@ -1,2 +1,9 @@
 # epam_cleanCode
-House Construction budget Estimator to demonstrate clean code
+
+-   Simple Interest Calculator
+
+-   House Construction budget Estimator
+
+### Task
+
+-   To demonstrate Clean Code Practices
