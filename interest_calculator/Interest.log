@@ -1,0 +1,14 @@
+2020-03-03 11:27:37 INFO  App:26 - Principle Amount read
+2020-03-03 11:27:39 INFO  App:30 - Rate of interest read
+2020-03-03 11:27:40 INFO  App:34 - No. of years interest to be calculated read
+2020-03-03 11:27:41 INFO  App:38 - Period Division of months for Compound Interest Read
+2020-03-03 11:27:41 INFO  App:40 - Simple Interest Constructor called
+2020-03-03 11:27:41 INFO  App:16 - Interest class Constructor called
+2020-03-03 11:27:41 INFO  App:17 - SimpleInterest Constructor End
+2020-03-03 11:27:41 INFO  App:43 - Compound Interest Constructor called
+2020-03-03 11:27:41 INFO  App:16 - Interest class Constructor called
+2020-03-03 11:27:41 INFO  App:18 - CompoundInterest Constructor End
+2020-03-03 11:27:41 INFO  App:48 - getTotalInterest() function called for Simple Interest
+2020-03-03 11:27:41 INFO  App:23 - Simple Interest getTotalInterest() function entered
+2020-03-03 11:27:41 INFO  App:51 - getTotalInterest() function called for Compound Interest
+2020-03-03 11:27:41 INFO  App:23 - CompoundInterest getTotalInterest() function entered
