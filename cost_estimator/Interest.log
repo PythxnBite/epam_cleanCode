@@ -1,0 +1,8 @@
+2020-03-03 11:51:50 INFO  App:24 - Material option read
+2020-03-03 11:51:54 INFO  App:28 - Area read
+2020-03-03 11:51:54 INFO  App:34 - CostEstimator Constructor called
+2020-03-03 11:51:54 INFO  App:18 - CostEstimator constructor entered
+2020-03-03 11:51:54 INFO  App:22 - CostEstimator constructor exited
+2020-03-03 11:51:54 INFO  App:36 - Estimatation function called
+2020-03-03 11:51:54 INFO  App:27 - getEstimation() function entered
+2020-03-03 11:51:54 INFO  App:48 - getEstimation() function exited
